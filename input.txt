@@ -1,0 +1,11 @@
+Part: TI Module
+Serial No: 143149TI
+Test: Passed
+
+Part: FGT Connector
+Serial No: 34989
+Test: Faulty
+
+Part: CGI 
+Serial No: 10489TIP
+Test: Faulty
